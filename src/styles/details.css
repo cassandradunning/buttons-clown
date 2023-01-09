@@ -1,0 +1,16 @@
+.button {
+	background-color: #b0303b;
+	color: #ffffff;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	cursor: pointer;
+}
+.input {
+    width: 600px;
+    margin-bottom: 18px;
+}
+
+.label {
+    font-size: large;
+}

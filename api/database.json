@@ -1,0 +1,31 @@
+{
+  "requests": [
+    {
+      "parent": "Jessica",
+      "child": "Sally",
+      "attendance": "23",
+      "address": "123 Main St",
+      "eventDate": "2023-01-14",
+      "eventHours": "4",
+      "id": 1
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Mike"
+    },
+    {
+      "id": 2,
+      "name": "Leslie"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "clownId": 1,
+      "date_completed": 1673279991723,
+      "id": 1
+    }
+  ]
+}
